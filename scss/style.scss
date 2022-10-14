@@ -1,6 +1,9 @@
+@use 'variables' as *;
+@use 'reset' as *;
 body {
     margin: 0 ;
     height: 500vh;
+    color: $color4;
 }
 header {
     background: url('../assest/img/bg_header.jpg') center/cover fixed;
