@@ -104,4 +104,11 @@ header::after {
   background-color: rgba(226, 95, 128, 0.26);
 }
 
+@media screen and (min-width: 700px) {
+  header h1 {
+    font-size: 80px;
+    color: #73022C;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
